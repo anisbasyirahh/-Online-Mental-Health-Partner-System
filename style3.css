@@ -1,0 +1,293 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background: #ffffff;
+    font-family: "Open Sans", sans-serif;
+	  font-weight: normal;
+}
+
+.container {
+	width: 80%;
+	margin: 0 auto;
+}
+
+header {
+  background: #6daffe;
+}
+
+header::after {
+  content: '';
+  display: table;
+  clear: both;
+}
+
+.logo {
+  float: left;
+  padding: 10px 0;
+}
+
+nav {
+  float: right;
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+nav li {
+  display: inline-block;
+  margin-left: 70px;
+  padding-top: 23px;
+
+  position: relative;
+}
+
+nav a {
+  color: #f2f2f2;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 14px;
+}
+
+nav a:hover {
+  color: #f2f2f2;
+}
+
+nav a:before  {
+  content: '';
+  display: block;
+  height: 5px;  
+  background-color: #f2f2f2;
+
+  position: absolute;
+  top: 0;
+  width: 0%;
+
+  transition: all ease-in-out 250ms;
+}
+
+nav a:hover::before {
+  width: 100%;
+}
+
+nav .current {
+ background-color: #d16589;
+} 
+
+
+* {box-sizing:border-box}
+
+h1 {
+  color: #b9732f;
+  text-align: center;
+  font-family: "Open Sans", sans-serif;
+  
+} 
+
+.about-section{
+  background: url(logooo.jpg) no-repeat left;
+  background-size: 55%;
+  background-color: #fdfdfd;
+  overflow: hidden;
+  padding: 100px 0;
+}
+
+.inner-container{
+  width: 55%;
+  float: right;
+  background-color: #fdfdfd;
+  padding: 150px;
+}
+
+.inner-container h1{
+  margin-bottom: 30px;
+  font-size: 30px;
+  font-weight: 900;
+}
+
+.text{
+  font-size: 13px;
+  color: #545454;
+  line-height: 30px;
+  text-align: justify;
+  margin-bottom: 40px;
+}
+
+.skills{
+  display: flex;
+  justify-content: space-between;
+  font-weight: normal;
+  font-size: 13px;
+}
+
+@media screen and (max-width:1200px){
+  .inner-container{
+      padding: 80px;
+  }
+}
+
+@media screen and (max-width:1000px){
+  .about-section{
+      background-size: 100%;
+      padding: 100px 40px;
+  }
+  .inner-container{
+      width: 100%;
+  }
+}
+
+@media screen and (max-width:600px){
+  .about-section{
+      padding: 0;
+  }
+  .inner-container{
+      padding: 60px;
+  }
+}
+
+button {
+	border-radius: 20px;
+	border: 1px solid #d77e80;
+	background-color: #d87f81;
+	color: #FFFFFF;
+	font-size: 12px;
+	font-weight: bold;
+	padding: 12px 45px;
+  letter-spacing: 1px;
+  text-align: center;
+	text-transform: uppercase;
+  transition: transform 80ms ease-in;
+}
+
+button:active {
+	transform: scale(0.95);
+}
+
+button:focus {
+	outline: none;
+}
+
+button.ghost {
+	background-color: transparent;
+	border-color: #FFF;
+}
+
+footer{
+  background: #abd7eb;
+  padding: 90px 0;
+}
+
+.footer-container{
+  max-width: 1300px;
+  margin: auto;
+  padding: 0 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap-reverse;
+}
+
+.logo{
+  width: 30px;
+}
+
+.social-media{
+  margin: 20px 0;
+}
+
+.social-media a{
+  color: #001a21;
+  margin-right: 25px;
+  font-size: 22px;
+  text-decoration: none;
+  transition: .3s linear;
+}
+
+.social-media a:hover{
+  color: #d77e80;
+}
+
+.right-col h1{
+  font-size: 26px;
+}
+
+.border{
+  width: 100px;
+  height: 4px;
+  background: #d77e80;
+}
+
+.newsletter-form{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.txtb{
+  flex: 1;
+  padding: 18px 40px;
+  font-size: 16px;
+  color: #293043;
+  background: #ddd;
+  border: none;
+  font-weight: 700;
+  outline: none;
+  border-radius: 30px;
+  min-width: 260px;
+}
+
+.btn{
+  padding: 18px 40px;
+  font-size: 16px;
+  color: #f1f1f1;
+  background: #fc5c65;
+  border: none;
+  font-weight: 700;
+  outline: none;
+  border-radius: 30px;
+  margin-left: 20px;
+  cursor: pointer;
+  transition: opacity .3s linear;
+}
+
+.btn:hover{
+  opacity: .7;
+}
+
+.page-content{
+  min-height: 100vh;
+  font-size: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+@media screen and (max-width:960px) {
+  .footer-container{
+    max-width: 600px;
+  }
+  .right-col{
+    width: 100%;
+    margin-bottom: 60px;
+  }
+
+  .left-col{
+    width: 100%;
+    text-align: center;
+  }
+}
+
+
+@media screen and (max-width:700px){
+  .btn{
+    margin: 0;
+    width: 100%;
+    margin-top: 20px;
+    }
+}

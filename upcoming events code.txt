@@ -1,0 +1,84 @@
+  <h2>July</h2>
+  <p>Month </p>
+  <p>Minority Mental Health Awareness Month </p>
+    
+  <p>Day</p>
+  <p>World Day Against Trafficking Persons (Jul. 30) </p>
+
+  <h3>August</h3>
+  <p>Month</p>
+  <p>National Breastfeeding Awareness Month</p> 
+    
+  <p>Week</p>
+  <p>National Health Center Week  (Aug. 4-10)</p>
+    
+  <p>Day</p>
+  <p>Friendship Day (Aug. 2)</p>
+  <p>National Women’s Equality Day (Aug. 26)</p>
+
+  <h4>September</h4>
+  <p>Month</p>
+  <p>National Recovery Month</p> 
+  <p>National Suicide Prevention Month</p>
+    
+  <p>Week</p>
+  <p>National Suicide Prevention Week (Sep. 6-12)</p>
+    
+  <p>Day</p>
+    
+  <p>World Suicide Prevention Day (Sep. 10)</p>
+
+  <h5>October</h5>
+  <p>Month</p>
+  <p>National Depression and Mental Health Screening Month</p> 
+  <p>Health Literacy Month</p>
+  <p>Bullying Prevention Month</p>
+  <p>Domestic Violence Awareness Month</p> 
+  <p>Pregnancy and Infant Loss Awareness Mont</p>
+  <p>ADHD Awareness Month</p>
+    
+  <p>Week</p>
+  <p>Mental Illness Awareness Week (Oct. 4-10)</p>
+  <p>OCD Awareness Week (Oct. 11-17)</p>
+  <p>National Health Education Week (Oct. 19-23)</p>
+  <p>ADHD Awareness Week (TBA)</p>
+  
+  <p>
+  <p>Day</p>
+  <p>International Day of Non-Violence (Oct. 2)</p> 
+  <p>National Depression Screening Day (Oct. 8)</p> 
+  <p>World Mental Health Day (Oct. 10)</p>
+  <p>National Coming Out Day (Oct. 11)</p>
+  <p>National Stop Bullying Day (Oct. 14)</p> 
+  <p>National Pregnancy and Infant Loss Remembrance Day (Oct. 15)</p>
+  </p> 
+    
+  <h6>November</h6>
+  <p>Month</p>
+  <p>Adoption Awareness Month</p> 
+  <p>National Career Development Month</p> 
+
+  <p>Week</p>
+  <p>Anti-Bullying Awareness Week</p> 
+  <p>Hunger and Homelessness Awareness Week (Nov. 14-23)</p>
+  <p>National Career Development Week (Nov. 11-15)</p>
+
+  <p>Day</p>
+  <p>International Stress Awareness Day (Nov. 6)</p>
+  <p></p>World Adoption Day (Nov. 9)
+  <p></p>World Kindness Day (Nov. 13)
+  <p></p>National Career Development Day (Nov. 13)
+  <p></p> International Day for Tolerance (Nov. 16 )
+  <p></p>National Parental Involvement Day (Nov. 19)
+  <p></p>International Survivors of Suicide Day (Nov. 21)
+  <p></p>National Adoption Day (Nov. 21)
+  <p></p>National Family Health History Day (Nov. 25)
+    
+  <h7>December</h7>
+  <p>Month</p>
+  <p>National Stress-Free Family Holidays Month</p> 
+  
+  <p>Day</p>
+  <p>World AIDS Day (Dec. 1)</p>
+  <p>International Day of Persons With Disabilities (Dec. 3)</p>
+  <p>Human Rights Day (Dec. 10)</p>
